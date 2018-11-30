@@ -9,8 +9,12 @@ question you can ask:
 
 Exploration ideas:
 Departure delays.
+
 Bestairportsinterms oftimedeparture%.
+
 Aircraft speed analysis.
+
 On time arrival % analysis.
+
 Maximum number of flights headed to some particular destination.
 
