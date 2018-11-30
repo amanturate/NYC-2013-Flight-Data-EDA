@@ -8,6 +8,7 @@ EWR, JFK and LGA) in 2013: 336,776 flights in total. The following are the types
 question you can ask:
 
 Exploration ideas:
+
 Departure delays.
 
 Bestairportsinterms oftimedeparture%.
